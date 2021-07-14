@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Caloudi Talent Circulation Alliance (TCA) 2021 Summer Program"
-date:   2021-07-13 09:57:19 -0700
+date:   2021-07-05 09:57:19 -0700
 categories: Opening Remark
 ---
 
