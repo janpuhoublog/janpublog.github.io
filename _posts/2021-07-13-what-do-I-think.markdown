@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What do I think about Data Scientist"
-date:   2021-07-13 20:08:27 -0700
+date:   2021-07-13 03:08:27 -0700
 categories: jekyll update
 ---
 ![Alt Text](/assets/img/T-1.png)
